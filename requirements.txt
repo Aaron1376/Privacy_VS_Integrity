@@ -1,0 +1,8 @@
+# Core (needed for everything)
+numpy>=1.26
+torch>=2.2
+matplotlib>=3.8
+pyyaml>=6.0
+pytest>=8.0
+# Optional: Flower adapter (src/pvi/flower_adapter.py). The probes do not need it.
+# flwr>=1.8

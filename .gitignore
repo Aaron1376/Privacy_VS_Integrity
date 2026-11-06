@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+# Large or regenerated outputs. Small preliminary results are committed on purpose.
+results/scratch/
+results/full/
+data/
+*.pt
+
+# Kept local only (not published)
+docs/
+REPORT.md
